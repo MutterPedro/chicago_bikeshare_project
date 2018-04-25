@@ -1,11 +1,11 @@
-#Chicago Bikeshare Data Analysis
+# Chicago Bikeshare Data Analysis
 
-##Data file
+## Data file
     Download the data **.csv** file avaible [here](https://ufile.io/gmq67).
 
-##Version
+## Version
     This project was developed using Python 3.6.
 
-##Running
+## Running
     To run the script, just navigate to the project folder then run:
     `python chicago_bikeshare_pt.py` 
