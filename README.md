@@ -1,7 +1,7 @@
 # Chicago Bikeshare Data Analysis
 
 ## Data file
-Download the data **.csv** file avaible [here](https://ufile.io/gmq67).
+Download the data **.csv** file avaible [here](https://www.mediafire.com/file/2kp9eui11e02ul8/chicago.csv).
 
 ## Version
 This project was developed using Python 3.6.
