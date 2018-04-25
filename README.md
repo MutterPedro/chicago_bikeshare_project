@@ -8,4 +8,4 @@
 
 ## Running
     To run the script, just navigate to the project folder then run:
-    `python chicago_bikeshare_pt.py` 
+    ``` python chicago_bikeshare_pt.py ```
